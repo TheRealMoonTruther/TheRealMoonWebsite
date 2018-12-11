@@ -1,0 +1,146 @@
+html {
+	background-color: #FF8833;
+}
+
+.icon_1 {
+  position: absolute;
+  top: 90%;
+  left: 90%;
+}
+
+.icon_2 {
+  position: absolute;
+  top: 90%;
+  left: 95%;
+}
+
+.wortht {
+	position: absolute;
+	top: 15%;
+	left: 30%;
+	color: black;
+	font-family: roboto;
+}
+
+.comparition {
+	position: absolute;
+	top: 50%;
+	left: 35%;	
+	color: black;
+	font-family: roboto;
+}
+
+.worth {
+	position: absolute;
+}
+
+.forcaw, .vigorw, .inteligenciaw, .percecaow, .preco {
+	font-family: roboto;
+	font-size: 18px;
+	top: 25%;
+}
+
+.forcawi, .vigorwi, .inteligenciawi, .percecaowi, .precoi {
+	top: 32%;
+}
+
+.forcaw, .forcawi {
+	left: 10%;
+}
+
+.vigorw, .vigorwi {
+	left: 25%;
+}
+
+.inteligenciaw, .inteligenciawi {
+	left: 40%;
+}
+
+.percecaow, .percecaowi {
+	left: 55%;
+}
+
+.preco, .precoi {
+	left: 70%;
+}
+
+.submitw {
+	position: absolute;
+	top: 32%;
+	left: 85%;
+}
+
+.comparition {
+	position: absolute;
+}
+
+.forcac, .vigorc, .inteligenciac, .percecaoc {
+	font-family: roboto;
+	font-size: 18px;
+	top: 60%;
+}
+
+.forcaci, .vigorci, .inteligenciaci, .percecaoci {
+	top: 70%;
+}
+
+.forca2, .vigor2, .inteligencia2, .percecao2 {
+	font-family: roboto;
+	font-size: 18px;
+	top: 80%; 
+ }
+ 
+.forca2i, .vigor2i, .inteligencia2i, .percecao2i {
+	top: 90%;  
+  } 
+
+.forcac, .forcaci {
+	left: 10%;
+}
+
+.vigorc, .vigorci {
+	left: 30%;
+}
+
+.inteligenciac, .inteligenciaci {
+	left: 50%;
+}
+
+.percecaoc, .percecaoci {
+	left: 70%;
+}
+
+.forca2, .forca2i {
+	left: 10%;
+}
+
+.vigor2, .vigor2i {
+	left: 30%;
+}
+
+.inteligencia2, .inteligencia2i {
+	left: 50%;
+}
+
+.percecao2, .percecao2i {
+	left: 70%;
+}
+
+.submitc {
+	position: absolute;
+	top: 90%;
+	left: 85%;	
+}
+
+.title {
+	position: absolute;
+	top: 0.1%;
+	left: 40%;
+	font-size: 50px;
+	font-family: roboto mono;
+}
+
+.icon {
+	top: 2.5% !important;
+	left: 33%;
+}
